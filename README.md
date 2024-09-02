@@ -1,13 +1,13 @@
 ![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?t=st=1725294147~exp=1725297747~hmac=3d7c553df37da0fadf2e875016bfe84acc87e7d5403e2dd48c64d67018916e42&w=1380)
 
 <h1 align="center">Hi 👋, I'm Wann Iman</h1>
-<h3 align="center">Fresh grads student passionate to dive deep in data domain</h3>
+<h3 align="center">Fresh Grad on a Mission: Conquering Data, One Spreadsheet at a Time!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wann&label=Profile%20views&color=0e75b6&style=flat" alt="wann" /> </p>
 
-- 🌱 I’m currently learning **Date Engineering**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **Python**
 
